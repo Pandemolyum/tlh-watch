@@ -1,0 +1,8 @@
+# Personal settings and runtime files - never publish these
+config.json
+watches.json
+state.json
+state.json.tmp
+watch.log
+watch.log.1
+__pycache__/
